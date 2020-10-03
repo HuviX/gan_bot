@@ -6,3 +6,8 @@ bot token (`token.txt`) should be in the same directory
 training script to be added soon
 
 ![alt text](https://github.com/HuviX/gan_bot/blob/master/gan_males.jpg)
+
+train script run
+`python3 train.py --dataset /path/to/dataset/ --name my_gan`
+
+Custom parameters - parser arguments from `train.py`.
