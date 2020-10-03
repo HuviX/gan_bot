@@ -2,7 +2,7 @@ import argparse
 import logging
 import time
 import datetime
-from generator import Generator
+from net import Generator
 import sys
 import telegram
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
